@@ -1,0 +1,11 @@
+D:\OneDrive\Documents\Timber\Timber\bin\Debug\Timber.exe.config
+D:\OneDrive\Documents\Timber\Timber\bin\Debug\Timber.exe
+D:\OneDrive\Documents\Timber\Timber\bin\Debug\Timber.pdb
+D:\OneDrive\Documents\Timber\Timber\obj\Debug\Timber.csproj.AssemblyReference.cache
+D:\OneDrive\Documents\Timber\Timber\obj\Debug\Timber.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive\Documents\Timber\Timber\obj\Debug\Timber.Timber.resources
+D:\OneDrive\Documents\Timber\Timber\obj\Debug\Timber.Properties.Resources.resources
+D:\OneDrive\Documents\Timber\Timber\obj\Debug\Timber.csproj.GenerateResource.cache
+D:\OneDrive\Documents\Timber\Timber\obj\Debug\Timber.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\Timber\Timber\obj\Debug\Timber.exe
+D:\OneDrive\Documents\Timber\Timber\obj\Debug\Timber.pdb
